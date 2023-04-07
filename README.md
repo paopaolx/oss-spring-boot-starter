@@ -1,6 +1,11 @@
-# oss-spring-boot-starter
+> oss-spring-boot-starter  ——  自定义starter项目
 
-> 手写一个基于AmazonS3的starter
+> test-oss-spring-boot-starter  ——  测试starter的项目
+
+
+
+## 手写一个基于AmazonS3的starter
+
 
 实现步骤:
 1. 先创建一个springboot项目，在pom.xml中引入aws-java-sdk-s3依赖
